@@ -1,0 +1,30 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.title-bar {
+  background-color: black;
+  color: white;
+}
+
+.heading-main {
+  margin: 0px;
+  border: 0px;
+  padding: 0px;
+}
+
+.subContainer {
+  background-image: url("https://wallpapercave.com/wp/wp3105346.jpg");
+  background-size: cover;
+}
+
+.btn-primary {
+  height: 6vh;
+  width: 14vh;
+  padding: 1rem;
+  margin: 1rem;
+  border-radius: 2rem;
+  border: 2px solid black;
+  text-decoration: none;
+}
